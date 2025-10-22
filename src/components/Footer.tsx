@@ -11,10 +11,10 @@ const Footer = () => {
         {/* Logo & About */}
         <div>
           <div className="flex items-center gap-2 mb-4">
-            <h2 className="text-3xl font-bold text-gray-800">Hafsa's Mart</h2>
+            <h2 className="text-3xl font-bold text-gray-800">Hafsa&apos;s Mart</h2>
           </div>
           <p className="text-gray-600 leading-6">
-            Discover the latest trends in fashion, style, and beauty with Hafsa's Mart. 
+            Discover the latest trends in fashion, style, and beauty with Hafsa&apos;s Mart. 
             Where comfort meets elegance 💖
           </p>
         </div>
